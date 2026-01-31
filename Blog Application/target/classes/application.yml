@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://soumikpaul582_db_user:uompSsMJv6CE3LBN@cluster0.clmwmqy.mongodb.net/?appName=Cluster0
+      database: PAULDB
+      auto-index-creation: true
+
+server:
+  port: 8080
+  servlet:
+    context-path: /Paul
