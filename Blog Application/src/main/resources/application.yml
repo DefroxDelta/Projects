@@ -1,7 +1,7 @@
 spring:
   data:
     mongodb:
-      uri: mongodb+srv://soumikpaul582_db_user:uompSsMJv6CE3LBN@cluster0.clmwmqy.mongodb.net/?appName=Cluster0
+      uri: mongodb+srv://Changed username:password@cluster0.clmwmqy.mongodb.net/?appName=Cluster0
       database: PAULDB
       auto-index-creation: true
 
